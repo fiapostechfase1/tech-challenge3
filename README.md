@@ -111,6 +111,7 @@ O auxílio emergencial evitou colapso social, mas o fechamento de pequenos negó
 
 📁 Estrutura do Projeto
 
+```
 📂 TechChallenge_Fase3_PNADCOVID
  ┣ 📂 data
  ┃ ┣ 📂 bronze
@@ -125,6 +126,7 @@ O auxílio emergencial evitou colapso social, mas o fechamento de pequenos negó
  ┣ 📜 relatorio_tecnico.pdf
  ┣ 📜 README.md
  ┗ 📜 Postech_TechChallenge_Fase3.pdf
+```
 
 🧠 Principais Insights
 
