@@ -57,17 +57,17 @@ A arquitetura foi desenvolvida em 10 etapas, organizadas em camadas dentro de um
 
 🩺 Painel 1 – Saúde e Sintomas
 Mostra os sintomas mais relatados, o comportamento da população diante deles e a relação com os casos confirmados.
-➡️ Insight principal:
+- ➡️ Insight principal:
 A maioria dos sintomáticos não buscou atendimento médico, revelando o fenômeno de subnotificação e “iceberg epidemiológico”.
 
 🧍‍♀️ Painel 2 – Prevenção e Comportamento
 Analisa como a população reagiu às orientações de isolamento, trabalho remoto e uso dos serviços de saúde.
-➡️ Insight principal:
+- ➡️ Insight principal:
 A adesão às medidas de prevenção foi desigual e fortemente influenciada por condições socioeconômicas, com alta dependência do SUS.
 
 💰 Painel 3 – Socioeconomia e Impactos
 Explora os efeitos econômicos da pandemia, destacando os impactos do auxílio emergencial e a vulnerabilidade das micro e pequenas empresas.
-➡️ Insight principal:
+- ➡️ Insight principal:
 O auxílio emergencial evitou colapso social, mas o fechamento de pequenos negócios gerou consequências indiretas para a saúde mental e financeira da população.
 
 🧱 Tecnologias Utilizadas
