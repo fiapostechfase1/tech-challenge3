@@ -82,25 +82,6 @@ O auxílio emergencial evitou colapso social, mas o fechamento de pequenos negó
 | Linguagem         | **SQL / Python (PySpark)**          | Processamento e transformação de dados  |
 | Formato           | **Parquet / CSV**                   | Otimização de armazenamento             |
 
-📁 Estrutura do Projeto
-
-```
-📂 TechChallenge_Fase3_PNADCOVID
- ┣ 📂 data
- ┃ ┣ 📂 bronze
- ┃ ┣ 📂 prata
- ┃ ┗ 📂 ouro
- ┣ 📂 scripts
- ┃ ┣ transform_glue.py
- ┃ ┣ union_trimestres.sql
- ┃ ┗ translate_variables.py
- ┣ 📂 powerbi
- ┃ ┗ dashboard_pnad.pbix
- ┣ 📜 relatorio_tecnico.pdf
- ┣ 📜 README.md
- ┗ 📜 Postech_TechChallenge_Fase3.pdf
-```
-
 🧠 Principais Insights
 
 - Sintomas prevalentes: dor de cabeça, coriza e tosse foram os mais relatados.
